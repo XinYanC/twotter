@@ -1,0 +1,11 @@
+// adding some global styling 
+// make sure to import the global package and restart task
+// after import, it will hot reload
+body {
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
